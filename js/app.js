@@ -3,8 +3,8 @@ const marvel = {
     const URL_API_MARVEL = "https://gateway.marvel.com:443/v1/public/";
     const { MD5 } = CryptoJS;
     const [publicKey, privateKey] = [
-      "f9b5a753184542779e73cafdc27fd8cd",
-      "45114c84af1f858c5b4985489dc546b330164c60",
+      "2rXzdlDtSrkgBNjRDDSEAaSlDC9lUht88TkUExcR",
+      "QeANVJzKYEOSEtJqH1UJL5T4Oz2nuDCeitOJG1vFgEcr2s7EBufk1FHLdc64vmzH0Anf7DDZpuwueN87Iqn1Z49nty0DDVAjurczoEEozHkevMSUdFhE1tLXk1ZyHhjX",
     ];
     let offset = 0;
 
